@@ -1,5 +1,5 @@
 #itemDetailPage .detailLogo {
-  position: sticky;
+  position: static;
   background-position: 0 !important;
   display: block !important;
   height: 20vh;
@@ -8,6 +8,7 @@
   flex-shrink: 0;
   margin-left: 5vw;
   margin-top: 10vh;
+  margin-bottom:10vh;
 }
 
 div#itemDetailPage {
