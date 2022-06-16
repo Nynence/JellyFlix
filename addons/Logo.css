@@ -1,5 +1,5 @@
 #itemDetailPage .detailLogo {
-  position: static;
+  position: sticky;
   background-position: 0 !important;
   display: block !important;
   height: 20vh;
