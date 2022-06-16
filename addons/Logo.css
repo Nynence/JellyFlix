@@ -46,7 +46,7 @@ div#itemDetailPage {
 .layout-tv #itemDetailPage:not(.noBackdrop) .detailPagePrimaryContainer {
   margin: 0;
   padding: 0;
-  height: 10vh;
+  height: 40vh;
 }
 
 :not(.hide) + .detailPageWrapperContainer .parentName,
